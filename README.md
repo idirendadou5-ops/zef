@@ -2,11 +2,11 @@
 
 premier projet du cours DevOps.
 
-##Structure
+## Structure
 
 - `index.html`- page principale
 
-##Lancer le projet
+## Lancer le projet
 
 Ouvrir `index.html`dans un navigateur.
 
